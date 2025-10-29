@@ -1,0 +1,8 @@
+                       precision    recall  f1-score   support
+
+        Non Self-Harm       0.91      0.91      0.91      1384
+Terindikasi Self-Harm       0.89      0.89      0.89      1078
+
+             accuracy                           0.90      2462
+            macro avg       0.90      0.90      0.90      2462
+         weighted avg       0.90      0.90      0.90      2462

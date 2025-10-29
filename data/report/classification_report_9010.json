@@ -1,0 +1,27 @@
+{
+    "Non Self-Harm": {
+        "precision": 0.9359823399558499,
+        "recall": 0.9177489177489178,
+        "f1-score": 0.926775956284153,
+        "support": 462.0
+    },
+    "Terindikasi Self-Harm": {
+        "precision": 0.8967391304347826,
+        "recall": 0.9192200557103064,
+        "f1-score": 0.9078404401650619,
+        "support": 359.0
+    },
+    "accuracy": 0.9183922046285018,
+    "macro avg": {
+        "precision": 0.9163607351953162,
+        "recall": 0.918484486729612,
+        "f1-score": 0.9173081982246074,
+        "support": 821.0
+    },
+    "weighted avg": {
+        "precision": 0.9188223981555294,
+        "recall": 0.9183922046285018,
+        "f1-score": 0.9184959924756833,
+        "support": 821.0
+    }
+}
